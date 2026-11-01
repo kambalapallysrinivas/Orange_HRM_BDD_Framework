@@ -1,0 +1,8 @@
+<suite name="Regression suite">
+<test name="Verify Login Functionality">
+<classes>
+<class name="testrunner.TestRunner">
+</class>
+</classes>
+</test>
+</suite>
